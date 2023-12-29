@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357479612215",
+    "project_id": "public-news-app-3017e",
+    "storage_bucket": "public-news-app-3017e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357479612215:android:45503d0156499407ea24b2",
+        "android_client_info": {
+          "package_name": "com.example.publicnewsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQGlcqiOlpMXnCx1OJoIpPTK7-qtXc_wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
